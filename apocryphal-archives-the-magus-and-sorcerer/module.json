@@ -32,6 +32,6 @@
       }
     }
   ],
-  "manifest": "https://github.com/X/module.json",
-  "download": "https://github.com/X/aatmas.zip"
+  "manifest": "https://github.com/ApocryphalArchives/AA_magus-and-sorcerer/raw/main/apocryphal-archives-the-magus-and-sorcerer/module.json",
+  "download": "https://github.com/ApocryphalArchives/AA_magus-and-sorcerer/raw/main/aatmas.zip"
 }
