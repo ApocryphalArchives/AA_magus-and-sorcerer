@@ -18,12 +18,12 @@
       "name": "Timothy Schaefer"
     }
   ],
-  "url": "https://github.com/EvilArgonian/apocryphalArchivesMagusSorcererFoundryVTT",
+  "url": "https://github.com/ApocryphalArchives/AA_magus-and-sorcerer",
   "packs": [
     {
-      "name": "test-apocryphal-archives-the-magus-and-sorcerer",
+      "name": "apocryphal-archives-the-magus-and-sorcerer",
       "label": "Apocryphal Archives: The Magus and Sorcerer",
-      "path": "packs/test-apocryphal-archives-the-magus-and-sorcerer",
+      "path": "packs/apocryphal-archives-the-magus-and-sorcerer",
       "type": "Item",
       "system": "pf2e",
       "ownership": {
